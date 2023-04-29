@@ -1,0 +1,6 @@
+Uberlandia-MG Uberaba-MG    107 
+Uberaba-MG    Uberlandia-MG 107
+Uberlandia-MG Tapuirama-MG  50  
+Tapuirama-MG  Uberaba-MG    57  
+Uberaba-MG    Igarapava-SP  42  
+Igarapava-SP  Ituverava-SP  37  
